@@ -1,0 +1,132 @@
+{
+  "aisles": [
+    {
+      "aisle": "Baking",
+      "items": [
+        {
+          "id": 1297577,
+          "name": "baking powder",
+          "measures": {
+            "original": {
+              "amount": 1.0,
+              "unit": "package"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unit": "pkg"
+            },
+            "us": {
+              "amount": 1.0,
+              "unit": "pkg"
+            }
+          },
+          "usages": [],
+          "usageRecipeIds": [],
+          "pantryItem": false,
+          "aisle": "Baking",
+          "cost": 0.71,
+          "ingredientId": 18369
+        },
+        {
+          "id": 1297573,
+          "name": "baking powder",
+          "measures": {
+            "original": {
+              "amount": 1.0,
+              "unit": "package"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unit": "pkg"
+            },
+            "us": {
+              "amount": 1.0,
+              "unit": "pkg"
+            }
+          },
+          "usages": [],
+          "usageRecipeIds": [],
+          "pantryItem": false,
+          "aisle": "Baking",
+          "cost": 0.71,
+          "ingredientId": 18369
+        },
+        {
+          "id": 1297571,
+          "name": "baking powder",
+          "measures": {
+            "original": {
+              "amount": 1.0,
+              "unit": "package"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unit": "pkg"
+            },
+            "us": {
+              "amount": 1.0,
+              "unit": "pkg"
+            }
+          },
+          "usages": [],
+          "usageRecipeIds": [],
+          "pantryItem": false,
+          "aisle": "Baking",
+          "cost": 0.71,
+          "ingredientId": 18369
+        },
+        {
+          "id": 1297565,
+          "name": "baking powder",
+          "measures": {
+            "original": {
+              "amount": 1.0,
+              "unit": "package"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unit": "pkg"
+            },
+            "us": {
+              "amount": 1.0,
+              "unit": "pkg"
+            }
+          },
+          "usages": [],
+          "usageRecipeIds": [],
+          "pantryItem": false,
+          "aisle": "Baking",
+          "cost": 0.71,
+          "ingredientId": 18369
+        },
+        {
+          "id": 1297567,
+          "name": "baking powder",
+          "measures": {
+            "original": {
+              "amount": 1.0,
+              "unit": "package"
+            },
+            "metric": {
+              "amount": 1.0,
+              "unit": "pkg"
+            },
+            "us": {
+              "amount": 1.0,
+              "unit": "pkg"
+            }
+          },
+          "usages": [],
+          "usageRecipeIds": [],
+          "pantryItem": false,
+          "aisle": "Baking",
+          "cost": 0.71,
+          "ingredientId": 18369
+        }
+      ]
+    }
+  ],
+  "cost": 3.55,
+  "startDate": 1644105600,
+  "endDate": 1646006400
+}
